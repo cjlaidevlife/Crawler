@@ -38,16 +38,16 @@ YOUNGCHING
 4) **UrlXpath.R**    
 將目標欄位所需要的Xpath都存在這裡，協助主程式需要撈取時解析網頁結構。
 
-5) **Crawler_YoungChing_Neihu.r**
+5) **Crawler_YoungChing_Neihu.r**    
 本專案的主要腳本，會呼叫2,3,4腳本內的程式碼來完成爬取資料的任務。
 
-6) **Crawler_Data**
+6) **Crawler_Data**    
 用來存放程式所爬取到的資料，預設格式為(yyyy-mm-dd)Crawler_YoungChing_Neihu.csv，如果需要更改格式，可以在Crawler_YoungChing_Neihu.r腳本內修改。
 
 ## 專案成果
 
 >這支程式僅是做出簡單的爬蟲功能(且只能針對這個網站做撈取)，使用的技術都很淺層、基礎，目的是訓練自己能夠用R寫出一支小工具，並且將整個功能藉由文字的方式記錄下來。如果有機會，希望能再更近一步加入撈取POST網頁機制的進一步功能。最後提醒，有的網頁還是要注意不要亂撈，以免觸法。
 
-![image](https://imgur.com/QRWSove.gif)
+[點我觀看成果展示](https://imgur.com/QRWSove)
 
-<div style="text-align: right">2020.02.17 錄製</div>
+<div style="text-align: right">2020.02.17 </div>
