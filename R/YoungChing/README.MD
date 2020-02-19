@@ -48,6 +48,6 @@ YOUNGCHING
 
 >這支程式僅是做出簡單的爬蟲功能(且只能針對這個網站做撈取)，使用的技術都很淺層、基礎，目的是訓練自己能夠用R寫出一支小工具，並且將整個功能藉由文字的方式記錄下來。如果有機會，希望能再更近一步加入撈取POST網頁機制的進一步功能。最後提醒，有的網頁還是要注意不要亂撈，以免觸法。
 
-![](https://imgur.com/QRWSove.gif)
+![image](https://imgur.com/QRWSove.gif)
 
 <div style="text-align: right">2020.02.17 錄製</div>
