@@ -1,4 +1,4 @@
-packages <- c("rvest","dplyr","stringr")
+packages <- c("rvest","dplyr")
 pkgs <- sort(.packages(all.available = TRUE))
 install_packages <- packages %in% pkgs
 if (any(install_packages == FALSE)){
@@ -7,7 +7,7 @@ if (any(install_packages == FALSE)){
 libpackages = lapply(packages, library, character.only = TRUE)
 invisible(libpackages)
 
-require(rvest);require(dplyr);require(stringr)
+require(rvest);require(dplyr)
 cat("========================================================","\n")
 cat("👍️初始化完成!!","\n")
 cat("\n")
